@@ -1,6 +1,6 @@
-# BlackMystery
+# BLACKMYSTERY
 
-**BLACKMYSTERY** is an educational astronomy application that lets you explore how different types of black holes can — and can't — actually be observed, using real physics and the genuine resolving limits of real astronomical instruments.
+**BLACKMYSTERY** is an educational astronomy application that lets you explore how different types of black holes can (and can't) actually be observed, using real physics and the genuine resolving limits of real astronomical instruments.
 
 Rather than rendering a generic "artist's impression," BlackMystery computes the true apparent angular size of a black hole's shadow for the mass, distance, and instrument you choose, and compares that against the real angular resolution of that instrument. If the object is too small or too far away to resolve, you don't get a fabricated close-up — you get exactly what a real telescope would return: an unresolved point of light.
 
