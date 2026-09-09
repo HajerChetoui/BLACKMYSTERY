@@ -130,10 +130,18 @@ WindowsProject1/
     ├── sgra_chandra.png
     └── cygx1_chandra.png
 ```
+## Screenshots:
+<img width="1092" height="752" alt="Capture d’écran 2026-08-24 162847" src="https://github.com/user-attachments/assets/4157a043-08a8-4a3c-95ef-200c9ded1653" />
+<img width="1092" height="746" alt="Capture d’écran 2026-08-24 163027" src="https://github.com/user-attachments/assets/4ee3cb27-d248-4d46-af70-c9fbf97445a7" />
+<img width="1092" height="756" alt="Capture d’écran 2026-08-24 163149" src="https://github.com/user-attachments/assets/d559b71f-04aa-497f-968c-00a6dc2eea2b" />
+<img width="1085" height="752" alt="Capture d’écran 2026-08-24 171906" src="https://github.com/user-attachments/assets/df5c8196-6f38-4789-8871-3a9f3563f124" />
+<img width="1087" height="751" alt="Capture d’écran 2026-08-24 174417" src="https://github.com/user-attachments/assets/529828f3-3d4d-4c49-94ad-4c843ed12ed3" />
+<img width="1087" height="752" alt="Capture d’écran 2026-08-24 174527" src="https://github.com/user-attachments/assets/c8d8c076-b76d-486b-a43b-c8356cd998a4" />
 
 ## Credits & Sources:
 
 - Built with [raylib](https://www.raylib.com/), a simple and easy-to-use library for videogame and graphics programming.
+- You can download the application using the link provided in the description (https://hajer-chetoui.itch.io/blackmystery)
 - Comparison photograph credits:
   - Sagittarius A* (radio/VLBI) ESO/EHT Collaboration
   - Sagittarius A* (X-ray context) NASA/CXC (Chandra X-ray Observatory)
