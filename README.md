@@ -141,5 +141,4 @@ WindowsProject1/
 - Created by Hajer Chetoui.
 
 ## License
-
-*(Add your chosen license here — e.g. MIT, GPL-3.0 — or state "All rights reserved" if you don't want the code reused.)*
+This project is released under the [MIT License](LICENSE)
